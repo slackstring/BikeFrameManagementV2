@@ -1,0 +1,15 @@
+D:\[programming]\BikeFrameManagementV2\BikeFrameManagement\BikeFrameManagement\bin\Debug\net6.0\BikeFrameManagement.exe
+D:\[programming]\BikeFrameManagementV2\BikeFrameManagement\BikeFrameManagement\bin\Debug\net6.0\BikeFrameManagement.deps.json
+D:\[programming]\BikeFrameManagementV2\BikeFrameManagement\BikeFrameManagement\bin\Debug\net6.0\BikeFrameManagement.runtimeconfig.json
+D:\[programming]\BikeFrameManagementV2\BikeFrameManagement\BikeFrameManagement\bin\Debug\net6.0\BikeFrameManagement.dll
+D:\[programming]\BikeFrameManagementV2\BikeFrameManagement\BikeFrameManagement\bin\Debug\net6.0\BikeFrameManagement.pdb
+D:\[programming]\BikeFrameManagementV2\BikeFrameManagement\BikeFrameManagement\obj\Debug\net6.0\BikeFrameManagement.csproj.AssemblyReference.cache
+D:\[programming]\BikeFrameManagementV2\BikeFrameManagement\BikeFrameManagement\obj\Debug\net6.0\BikeFrameManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\[programming]\BikeFrameManagementV2\BikeFrameManagement\BikeFrameManagement\obj\Debug\net6.0\BikeFrameManagement.AssemblyInfoInputs.cache
+D:\[programming]\BikeFrameManagementV2\BikeFrameManagement\BikeFrameManagement\obj\Debug\net6.0\BikeFrameManagement.AssemblyInfo.cs
+D:\[programming]\BikeFrameManagementV2\BikeFrameManagement\BikeFrameManagement\obj\Debug\net6.0\BikeFrameManagement.csproj.CoreCompileInputs.cache
+D:\[programming]\BikeFrameManagementV2\BikeFrameManagement\BikeFrameManagement\obj\Debug\net6.0\BikeFrameManagement.dll
+D:\[programming]\BikeFrameManagementV2\BikeFrameManagement\BikeFrameManagement\obj\Debug\net6.0\refint\BikeFrameManagement.dll
+D:\[programming]\BikeFrameManagementV2\BikeFrameManagement\BikeFrameManagement\obj\Debug\net6.0\BikeFrameManagement.pdb
+D:\[programming]\BikeFrameManagementV2\BikeFrameManagement\BikeFrameManagement\obj\Debug\net6.0\BikeFrameManagement.genruntimeconfig.cache
+D:\[programming]\BikeFrameManagementV2\BikeFrameManagement\BikeFrameManagement\obj\Debug\net6.0\ref\BikeFrameManagement.dll
