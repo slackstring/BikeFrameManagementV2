@@ -13,4 +13,6 @@ namespace BikeFrameManagement
             Menu newMenu = new StartMenu();
         }
     }
+
+    public delegate void PopUpEventhandler();
 }

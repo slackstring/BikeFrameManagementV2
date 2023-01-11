@@ -19,6 +19,12 @@ namespace BikeFrameManagement
             Frame newFrame = new Frame(manufacturer, modell, material);
             Profilmanager.CurrentProfile.Frames.Add(newFrame);
             Profilmanager.SaveProfile(Profilmanager.CurrentProfile);
+            //PopUp als Event auslösen
+            PopUpNotifications popUpAdded = new PopUpNotifications();
+            Events FrameAdded = new Events();
+            FrameAdded.FrameAdded += popUpAdded.FrameAdded;
+            FrameAdded.FrameIsAdded();  //Event auslösen
+
             Menu nextMenu = new MainMenu();
             
         }

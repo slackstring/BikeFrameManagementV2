@@ -19,7 +19,12 @@ namespace BikeFrameManagement
                 int frameNrToDelete = Input();
                 Profilmanager.CurrentProfile.Frames.Remove(Profilmanager.CurrentProfile.Frames[frameNrToDelete]);
                 Profilmanager.SaveProfile(Profilmanager.CurrentProfile);
-                //Add Eventhandler für Meldung: Daten erfolgreich hinzugefügt!
+                //Add Eventhandler für Meldung: Daten erfolgreich gelöscht!
+                PopUpNotifications popUpDeleted = new PopUpNotifications();
+                Events frameDeleted = new Events();
+                frameDeleted.FrameDeleted += popUpDeleted.FrameDeleted;
+                frameDeleted.FrameIsDeleted();
+
                 Menu nextMenu = new MainMenu(); 
             }
             else
